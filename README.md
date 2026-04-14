@@ -3,3 +3,6 @@
   <h2 align="center">Que pasa ,&nbsp; rey <&nbsp;C𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="84px">/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
   </h2>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danytrox)](https://github.com/anuraghazra/github-readme-stats)
+
